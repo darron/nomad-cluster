@@ -12,7 +12,7 @@ cd packer
 packer build build.json
 ```
 
-To deploy cluster with [Terraform](https://www.terraform.io/):
+To deploy cluster on AWS with [Terraform](https://www.terraform.io/):
 
 ```
 cd terraform
